@@ -109,7 +109,7 @@
                 Told ya
         
             </p>
-          ![rikiroll](https://github.com/user-attachments/assets/009037a9-b5c7-4ef2-8128-85de410bae32)
+         <img src="https://imgur.com/0DQQTAv"></img>
             <div class="final-message">Will you go out with me?</div>
         </div>
     </div>
