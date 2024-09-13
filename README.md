@@ -109,7 +109,7 @@
                 Told ya
         
             </p>
-         <img src="https://imgur.com/0DQQTAv"></img>
+         <img src="https://imgur.com/0DQQTAv">
             <div class="final-message">Will you go out with me?</div>
         </div>
     </div>
