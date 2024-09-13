@@ -107,7 +107,7 @@
         <div id="reveal-message">
             <p>
                 Told ya
-                ![rikiroll](https://github.com/user-attachments/assets/009037a9-b5c7-4ef2-8128-85de410bae32)
+                ##![rikiroll](https://github.com/user-attachments/assets/009037a9-b5c7-4ef2-8128-85de410bae32)
             </p>
           
             <div class="final-message">Will you go out with me?</div>
