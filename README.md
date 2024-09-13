@@ -109,7 +109,7 @@
                 Told ya
         
             </p>
-         <img src="https://imgur.com/0DQQTAv">
+         <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifsec.com%2Frick-roll gifs%2F&psig=AOvVaw218c2UJAcqVSoe4xlWsnQr&ust=1726281950687000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC3jMrzvogDFQAAAAAdAAAAABAE">
             <div class="final-message">Will you go out with me?</div>
         </div>
     </div>
