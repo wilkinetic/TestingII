@@ -1,4 +1,4 @@
-# Testing2
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -106,11 +106,9 @@
         <!-- Hidden message to be revealed -->
         <div id="reveal-message">
             <p>
-                Hi Geo I have liked you for so long, and I couldn't keep it hidden any longer. I think you're amazing, and I would love to get to know you even more. 
+                Told ya
             </p>
-            <p>
-                I just had to let you know. No pressure, just the truth.
-            </p>
+          
             <div class="final-message">Will you go out with me?</div>
         </div>
     </div>
