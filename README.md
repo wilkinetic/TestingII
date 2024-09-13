@@ -1,13 +1,2 @@
-<html>
-<head>
-<style>
-url(https://www.adorama.com/alc/wp-content/uploads/2021/05/bird-wings-flying-feature.gif);
-body {
-background-image:
-background-repeat: no-repeat; background-size: cover;
-}
-</style>
-</head>
-<body>
-</body>
-</html>
+
+![rikiroll](https://github.com/user-attachments/assets/009037a9-b5c7-4ef2-8128-85de410bae32)
